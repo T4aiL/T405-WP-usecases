@@ -1,4 +1,4 @@
-# T405-WP-usecases
+# T405-WP-use cases
 
 1. WP customizing
 2. WP - templates
