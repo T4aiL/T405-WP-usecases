@@ -5,6 +5,7 @@
 3. WP - plugins [The Best Free Wordpress Plugins For 2021 And Beyond (Seriously)](https://youtu.be/1dMAigVV4ds)
 4. WP - Page Builders: Elementor, Brizy, Breaver Builder, Divi, WP-Page builder, Site Origin, Toolset, Artisteer NicePage.com
 5. WP - ecommerce: [How To Create An eCommerce Website With Wordpress 2020 [ONLINE STORE!]](https://youtu.be/vKBSrdKWb4Y)
+6. Headless CMS https://dhosting.pl/pomoc/headless-cms-wordpress/
 
 
 ### Info Plugins
