@@ -91,6 +91,8 @@ https://www.youtube.com/watch?v=6dvtC6XxdIs
 
 https://www.youtube.com/watch?v=p0CYjMoXilo
 
+[Darmowy Motyw/Szablon WordPress Woocommerce [Woostify, 2021]](https://www.youtube.com/watch?v=Yp2WZHn5Cz8)
+
 ### GOOGLE DRIVE
 
 https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
